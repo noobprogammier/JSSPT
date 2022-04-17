@@ -1,4 +1,4 @@
-[![webiste](http://sipistoverdi.viewdns.net)]
+<a href="http://sipistoverdi.viewdns.net"> Our website </a>
 <br>
 Read our README.md file right here!
 ```python
